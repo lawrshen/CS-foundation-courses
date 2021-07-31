@@ -16,11 +16,11 @@
         "page-toc-button",
         "auto-scroll-table",
         "popup",
-        "splitter"
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/lawrshen"
+            "url": "https://lawrshen.github.io/CS-foundation-courses/"
         },
         "page-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
