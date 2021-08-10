@@ -21,4 +21,6 @@
     * [graph](Algorithm/graph.md)
     * [dp](Algorithm/dp.md)
     * [npc](Algorithm/npc.md)
+* [机器学习](MachineLearning/ch1-introduction.md)
+  * [线性回归](MachineLearning/ch2-module.md)
     
